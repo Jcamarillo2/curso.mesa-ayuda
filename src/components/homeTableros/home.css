@@ -1,0 +1,13 @@
+.home{
+    /* flex: 4; */
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    
+    /* height: calc(100% - 10px); */
+}
+
+.homeWidgets{
+    display: flex;
+    justify-content: center;    
+}
